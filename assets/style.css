@@ -1,0 +1,221 @@
+/* header CSS  */
+
+body {
+    background-color: slategray;
+}
+
+header {
+    border-bottom: black solid 2px;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 33px;
+}
+
+header nav {
+    font-size: 18px;
+    padding-top: 10px;
+    margin-right: 50px;
+    float: right;
+    font-family: sans-serif;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav li {
+    display: inline-block;
+    margin-left: 70px;
+    text-shadow: 0.2px 0.2px black;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+/* background image of nyc skyline */
+
+.bgimage {
+    margin-top: 10px;
+    background-image: url("../assets/nyskylinenight.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/* about me CSS */
+
+.profilepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid black;
+    box-shadow: 1px 1px black;
+}
+
+.content {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.box h2, h3 {
+    text-decoration: underline;
+}
+
+.box {
+    border: 2px solid black;
+    width: 50%;
+    margin: 5px;
+    height: auto;
+    background-color: beige;
+    box-shadow: 1px 1px black;
+    
+}
+
+article h2 {
+    text-align: center;
+    text-shadow: 0.2px 0.2px black;
+    font-family: sans-serif;
+}
+
+.about-me-paragraph {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 40px 80px 0px 80px;
+}
+
+/* work CSS  */
+
+.horisenimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 65%;
+}
+
+.work-title {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.gitproj1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.comingsoon2u {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    height: auto;
+    width: 100%;
+}
+
+.comingsoon {
+    border-radius: 25px;
+    margin: 0px 50px 0px 50px;
+    width: 10%
+}
+
+/* Footer CSS  */
+
+.contact {
+    border: 2px solid black;
+    width: 99%;
+    margin: 5px;
+    height: auto;
+    background-color: beige;
+    box-shadow: 1px 1px black;
+}
+
+.box1 {
+    text-align: center;
+}
+
+.githublogo {
+    border-radius: 25px;
+    margin: 0px 10px 0px 0px;
+    width: 5%
+}
+
+.lilogo {
+    border-radius: 25px;
+    margin: 0px 0px 0px 10px;
+    width: 5%
+}
+
+.iglogo {
+    border-radius: 25px;
+    margin: 0px 0px 0px 10px;
+    width: 5%
+}
+
+@media only screen and (max-width: 786px) {
+    .bgimage {
+        margin-top: 68px;
+    }
+    header h1 {
+       margin-left: 300px;
+    }
+    header nav {
+        margin-right: 132px;
+    }
+    .about-me-paragraph {
+        margin: 0px 10px 0px 10px;
+    }
+    .comingsoon2u {
+        display: inline;
+        text-align: center;
+    }
+    .comingsoon {
+        width: 20%;
+        margin-left: 150px;
+        margin-bottom: 10px;
+    }
+    div h3 {
+        margin-top: 0px;
+    }
+    .githublogo,
+    .lilogo,
+    .iglogo {
+        width: 10%;
+    }
+}
+
+@media only screen and (max-width: 387px) {
+    .bgimage {
+        margin-top: 89px;
+    }
+    header h1 {
+        margin-left: 84px;
+    }
+    .comingsoon2u {
+        display: inline;
+        text-align: center;
+    }
+    .comingsoon {
+        margin-left: 50px;
+        width: 50%;
+    }
+    .about-me-paragraph {
+        margin: 0px 10px 0px 10px;
+    }
+    header nav {
+        margin-right: 10px;
+    }
+    .githublogo,
+    .lilogo,
+    .iglogo {
+        width: 15%;
+    }
+}
