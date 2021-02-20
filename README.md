@@ -16,7 +16,13 @@ The site displays all basic information about me, including a short bio, some of
 
 The site is also responsive to different screen sizes.
 
+Desktop screen:
 
+![fullscreen](./Advanced-CSS-Portfolio/assets/fullscreen.png "Fullscreen View")
+
+Mobile View:
+
+![mobile](./Advanced-CSS-Portfolio/assets/mobile.png "Mobile View")
 
 <a name="where-to"></a>
 ## 2. Where is the site?
@@ -39,7 +45,11 @@ Each of the items on the navigation bar anchors to the specific sections of the 
 This project was created by myself, with suggestions and perspectives from the following people:
 
 Jason Barbanel
+
 Takuya Matsumoto
+
 Benjamin Durham
+
 Patrick Walker
+
 Stephen Marsh
