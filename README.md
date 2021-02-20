@@ -18,11 +18,11 @@ The site is also responsive to different screen sizes.
 
 Desktop screen:
 
-![Fullscreen](Advanced-CSS-Portfolio/assets/fullscreen.png)
+![Fullscreen](https://res.cloudinary.com/bizzaboprod/image/upload/v1613863264/rjdsfayckffadb344gnz.png)
 
 Mobile View:
 
-![Mobile](Advanced-CSS-Portfolio/assets/mobile.png)
+![Mobile](https://res.cloudinary.com/bizzaboprod/image/upload/v1613863296/ozxa1p837t76qxkonhal.png)
 
 <a name="where-to"></a>
 ## 2. Where is the site?
