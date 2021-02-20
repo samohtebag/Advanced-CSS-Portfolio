@@ -18,11 +18,11 @@ The site is also responsive to different screen sizes.
 
 Desktop screen:
 
-![fullscreen](./Advanced-CSS-Portfolio/assets/fullscreen.png "Fullscreen View")
+![fullscreen](./Advanced-CSS-Portfolio/assets/fullscreen.png?raw=true  "Fullscreen View")
 
 Mobile View:
 
-![mobile](./Advanced-CSS-Portfolio/assets/mobile.png "Mobile View")
+![mobile](./Advanced-CSS-Portfolio/assets/mobile.png?raw=true "Mobile View")
 
 <a name="where-to"></a>
 ## 2. Where is the site?
