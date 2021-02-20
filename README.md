@@ -15,6 +15,4 @@ The site is also responsive to different screen sizes.
 
 Desktop Screen:
 
-![Top-Page-Area](../Advanced-CSS-Portfolio/assets/recording (1).gif) "Top-Page-Area")
-
-M
+![Top-Page-Area](../Advanced-CSS-Portfolio/assets/recording(1).gif) "Top-Page-Area")
