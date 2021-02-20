@@ -39,6 +39,8 @@ Mobile View:
 
 Each of the items on the navigation bar anchors to the specific sections of the page. I've also included my resume which is downloadable when clicked.
 
+The site was also created to be accessible to screen readers as best as possible.
+
 <a name="contributions"></a>
 ## 4. Contributions
 
@@ -53,3 +55,7 @@ Benjamin Durham
 Patrick Walker
 
 Stephen Marsh
+
+
+
+
